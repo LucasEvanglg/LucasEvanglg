@@ -2,7 +2,7 @@
 ### Olá Pessoal 👋
 
 ### Sobre:
-Olá tudo bem?! me chamo Lucas tenho 18 anos, sou apaixonado por tecnologia sou novo na área de desenvolvimento e estudo para me tornar um bom desenvolvedor Front-End, tenho bastante conhecimento em design e utilizo essa área como um hobbie. Moro em Anápolis(GO) e estou cursando engenharia de software.
+Olá tudo bem?! Me chamo Lucas tenho 18 anos, sou apaixonado por tecnologia, sou novo na área de desenvolvimento e estudo para me tornar um bom desenvolvedor Front-End, tenho bastante conhecimento em design e utilizo essa área como um hobbie. Moro em Anápolis(GO) e estou cursando engenharia de software.
            
 
 ###
