@@ -9,7 +9,8 @@ Olá tudo bem?! Me chamo Lucas tenho 18 anos, sou apaixonado por tecnologia, sou
 
 - 💻 apaixonado por games
 - 🎓 Cursando Engenharia de software
-- 🎉 18 anos
+- 🎓 Cursando língua inglesa 
+- 🎉 19 anos
 - 📌 Anápolis - Goiás - Brasil
 
 ### Redes Sociais:
