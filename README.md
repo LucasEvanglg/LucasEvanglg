@@ -9,7 +9,7 @@ Estudando atualmente desenvolvimento mobile
 - 💻 apaixonado por games
 - 🎓 Cursando Engenharia de software
 - 🎓 Cursando língua inglesa 
-- 🎉 19 anos
+- 🎉 20 anos
 - 📌 Anápolis - Goiás - Brasil
 
 ### Redes Sociais:
